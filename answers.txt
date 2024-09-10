@@ -13,3 +13,11 @@ Answer: Data science could be applied to business sales. If a company has data f
 use that data to predict which sales opportunities will win or lose. What can be done is someone can feature engineer related data
 (such as amount, creation stage, opportunity type) and then they can use that data to create a prediction model. This model can
 then let businesses know which type of opportunities they should focus on so that they could maximize their sales.
+
+Q3: What is the difference between merging and rebasing?
+
+Answer: When you merge you combine the changes from one branch into another. This creates a new commit which combines 
+both branches histories. On the other hand, when you rebase you reapply commits from one branch onto another. 
+This doesn’t make a new commit, it just amends/changes the history of the branch which you are reapplying to.
+Merge basically perserves the history of each branch while rebasing changes the linear history of whichever branch 
+you’re reapplying to.
