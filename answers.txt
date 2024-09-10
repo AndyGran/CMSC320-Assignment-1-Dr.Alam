@@ -21,3 +21,9 @@ both branches histories. On the other hand, when you rebase you reapply commits 
 This doesn’t make a new commit, it just amends/changes the history of the branch which you are reapplying to.
 Merge basically perserves the history of each branch while rebasing changes the linear history of whichever branch 
 you’re reapplying to.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I'm hoping to improve my skills when it comes to applying learned math and statistics to computer science.
+Oftentimes I find it tough to visualize how data interacts with each other, but I'm hoping that through this course
+I can learn how to approach and handle the data to draw meaningful conclusions.
