@@ -1,0 +1,8 @@
+Q1: Why might we consider using git?
+
+Answer: For our purposes, we can use git to externally manage our code.
+Instead of having to submit large files of code our manually updating a project
+we can just push and pull to and from git, simplifying our process. It's also
+good to practice in class so that we are familiar with using git in the real
+world where git is often used to manage code version history and for a
+synchronized workflow.
